@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(43 42 41);
+}
+.txtBox h1{
+position: relative;
+top: 60px;
+margin-left: 20px;
+color: rgb(255 237 0);
+font-size: 50px;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.imageBox{
+text-align: center;
+margin-top: 40px;
+margin-left: 20px;
+}
+img{
+    width: 230px;
+}
+
+.clockBox{
+    margin-top: 10px;
+    text-align: center;
+}
+.clockBox{
+    margin-top: 20px;
+    text-align: center;
+}
+.clockBox span{
+color: rgb(255 237 0);
+font-size: 50px;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.btnBox{
+    margin-top: 10px;
+    text-align: center;
+    padding: 5px;
+}
+
+.btnBox button{
+    padding: 15px;
+    font-size: 17px;
+    background-color:rgb(74 50 36);
+    color:rgb(202, 202, 202);
+    border: none;
+    text-decoration: solid;
+}
