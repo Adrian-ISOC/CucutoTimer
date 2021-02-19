@@ -3,7 +3,6 @@ body{
 }
 .txtBox h1{
 position: relative;
-top: 60px;
 margin-left: 20px;
 color: rgb(255 237 0);
 font-size: 50px;
@@ -46,3 +45,18 @@ font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     border: none;
     text-decoration: solid;
 }
+.ads .right{
+    position: absolute;
+    right: 5px;
+}
+
+.ads .left{
+    position: absolute;
+    right: 5px;
+}
+
+.ads .top{
+    position: absolute;
+    right: 5px;
+}
+
